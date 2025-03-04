@@ -34,3 +34,10 @@ python3 manage.py migrate
   </li>
   
 </ul>
+
+
+## Frontend Source
+I took the frontend part of this project from the following link:
+<b>https://codesandbox.io/p/sandbox/todo-list-using-html-css-and-js-8kew0?file=%2Fpackage.json</b>
+
+However, this link contains JavaScript files, which I removed and replaced their functionality with Django.
