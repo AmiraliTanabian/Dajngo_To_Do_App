@@ -53,4 +53,4 @@ I took the frontend part of this project from the following link:
 <b>https://codesandbox.io/p/sandbox/todo-list-using-html-css-and-js-8kew0?file=%2Fpackage.json</b>
 
 However, this link contains JavaScript files, which I removed and replaced their functionality with Django.<br>
-<img src="Github_Images/image.txt" alt="Front end image">
+<img src="Github_Images/image.png" alt="Front end image">
