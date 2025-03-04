@@ -30,6 +30,18 @@ python3 manage.py migrate
     python manage.py migrate
 ```
   </li>
+  <li>
+    <b>Run on local host : </b>
+    ### Linux:
+```
+  python3 manage.py runserver
+```
+### Windows:    
+
+```
+  python manage.py runserver
+```
+  </li>
   
 </ul>
 
