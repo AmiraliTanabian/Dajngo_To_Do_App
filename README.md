@@ -17,8 +17,6 @@ pip install django
 ```
     git clone https://github.com/AmiraliTanabian/Dajngo_To_Do_App.git && cd Dajngo_To_Do_App
 ```
-
-    (Instead, you can download it manually from GitHub.)
   </li>
   <li>
     Create db :<br>
