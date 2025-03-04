@@ -24,16 +24,10 @@ pip install django
     Create db :<br>
     
 ### Linux:
-  <br>
-    
 ```
 python3 manage.py migrate
 ```
-<br><br>
-
-  ### Windows:
-  </b><br>
-    
+  ### Windows:    
 ```
     python manage.py migrate
 ```
