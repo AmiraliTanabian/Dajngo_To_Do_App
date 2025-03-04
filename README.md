@@ -31,8 +31,9 @@ python3 manage.py migrate
 ```
   </li>
   <li>
-    <b>Run on local host : </b>
-    ### Linux:
+    <b>Run on local host : </b><br>
+    
+### Linux:
 ```
   python3 manage.py runserver
 ```
@@ -42,7 +43,8 @@ python3 manage.py migrate
   python manage.py runserver
 ```
   </li>
-  
+
+  go to <b>localhost:8000</b>
 </ul>
 
 
